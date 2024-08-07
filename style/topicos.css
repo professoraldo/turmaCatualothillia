@@ -9,12 +9,14 @@
     font-weight: 300;
     margin-bottom: 1em;
 }
-.topicos__lista{
+
+.topicos__lista {
     display: flex;
     flex-wrap: wrap;
     justify-content: center;
 }
-.topicos__link{
+
+.topicos__link {
     color: var(--branco);
     padding: 1em;
     background-color: var(--laranja);
@@ -22,6 +24,7 @@
     font-weight: 700;
     text-decoration: none;
 }
-.topicos__itens{
+
+.topicos__itens {
     margin: 2em 0.5em;
-   }
+}
