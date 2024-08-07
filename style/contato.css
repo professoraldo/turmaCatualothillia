@@ -1,0 +1,8 @@
+background: var(--branco);
+padding: 1em;
+}
+.contato__titulo{
+    font-size:18px;
+    font-weight: 500;
+  }
+  
