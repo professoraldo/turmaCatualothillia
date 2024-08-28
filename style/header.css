@@ -95,7 +95,7 @@
 .opcoes__botao{
     display: none;
 }
-@media screen and (min-width: 1728px) {
+@media screen and (min-width: 1250px) {
     .container__link{
         display: flex;
         align-items: center;
